@@ -15,7 +15,6 @@ ol {
 
 .header-nav-list {
     font-weight: 500;
-    text-decoration: none;
     color: #2e2f42;
 }
 
@@ -35,8 +34,8 @@ ol {
     text-decoration: none;
 }
 
-.address-header .address-list-item .adress-link:hover,
-.address-header .address-list-item .adress-link:focus {
+.address-header .address-list-item .address-link:hover,
+.address-header .address-list-item .address-link:focus {
     color: #404bbf;
 }
 
